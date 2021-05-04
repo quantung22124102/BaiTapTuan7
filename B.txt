@@ -1,0 +1,7 @@
+1.
+P3= 0x5678
+p3= 0x1234
+p1= 0x5678
+2.lệnh gán giá trị 5:
+k=5,*p=5
+3.sai kiểu dữ liệu
